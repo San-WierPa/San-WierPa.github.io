@@ -1,8 +1,8 @@
 # XASFDB 4 DAPHNE
 
-[Authors](#authors)
-[Overview](#overview)
-[Flowchart](#flowchart)
+[Authors](#authors)<br>
+[Overview](#overview)<br>
+[Flowchart](#flowchart)<br>
 
 ## Authors
 [Sebastian Paripsa](mailto:paripsa@uni-wuppertal.de) (Bergische Universitaet Wuppertal),<br>
