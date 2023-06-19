@@ -1,7 +1,7 @@
 # XASFDB 4 DAPHNE
 
 ## Authors
-Sebastian Paripsa: paripsa@uni-wuppertal.de (Bergische Universitaet Wuppertal), 
+[Sebastian Paripsa:](mailto:paripsa@uni-wuppertal.de) (Bergische Universitaet Wuppertal),<br>
 Abhijeet Gaur: abhijeet.gaur@kit.edu (Karlsruhe Institute of Technology), 
 Frank Förste: ffoerste@physik.tu-berlin.de (Technische Universitaet Berlin), 
 Dmitry Doronkin: dmitry.doronkin@kit.edu (Karlsruhe Institute of Technology), 
