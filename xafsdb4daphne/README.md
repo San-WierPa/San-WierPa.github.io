@@ -31,3 +31,6 @@ The automated data processing follows a well-established protocol. At first the 
 
 ## Flowchart
 ![Flowchart](1.png)
+
+### Disclaimer
+This project is initiated within the framework of [DAPHNE4NFDI][https://www.daphne4nfdi.de/english/index.php], the "Data for Photon and Neutron Science" consortium within [NFDI][https://www.nfdi.de/?lang=en].
