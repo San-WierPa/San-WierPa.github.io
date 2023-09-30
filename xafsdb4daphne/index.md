@@ -1,6 +1,13 @@
 <link rel="stylesheet" type="text/css" href="/css/custom.css">
 
+---
+layout: page
+title: Home
+---
+
 # XAFSDB 4 DAPHNE
+
+[Go to Second Page](/team_contact/)
 
 [Authors](#authors)<br>
 [Overview](#overview)<br>
