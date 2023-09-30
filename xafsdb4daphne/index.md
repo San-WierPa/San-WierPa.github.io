@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/css/custom.css">
+<link rel="stylesheet" type="text/css" href="/css/custom.css">
 
 # XAFSDB 4 DAPHNE
 
