@@ -1,10 +1,9 @@
+<link rel="stylesheet" type="text/css" href="/css/custom.css">
+
 ---
 layout: page
 title: Home
-permalink: Home
 ---
-
-<link rel="stylesheet" type="text/css" href="/css/custom.css">
 
 # XAFSDB 4 DAPHNE
 
