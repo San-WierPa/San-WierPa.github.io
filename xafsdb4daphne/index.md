@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Home
-permalink: /xafsdb4daphne
+permalink: Home
 ---
 
 <link rel="stylesheet" type="text/css" href="/css/custom.css">
 
 # XAFSDB 4 DAPHNE
 
-[Meet the team](team_contact)<br>
+
 [Checkout the website](http://xafsdb.ddns.net/)
 
 [Authors](#authors)<br>
