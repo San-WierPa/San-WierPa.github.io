@@ -9,4 +9,4 @@ permalink: team_contact
 [Go Back to Home](index)
 
 ## The team (incomplete)
-![Team](assets/team.JPG)
+![Team](team.jpg)

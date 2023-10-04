@@ -42,7 +42,7 @@ Before measurement data is uploaded into the database an automated data processi
 The automated data processing follows a well-established protocol. At first the provided data is interpreted and the absorption µ, the corresponding energy and provided metadata are read out. This is not a trivial process as there is up to date no standard data format but rather a patchwork of different data formats for each facility. In the second step the position of the edge is determined as the maximum of the derivation of µ. A pre- and post-edge polynomial estimation and normalization is performed. This delivers the preprocessed normalized µ(E). In the next step the background of the post-edge is subtracted following the AUTOBK algorithm of Newville et al and the resulting χ(k) and χ(R) are plotted.
 
 ## Flowchart
-![Flowchart](assets/1.png)
+![Flowchart](1.png)
 
 ### Disclaimer
 This project is initiated within the framework of [DAPHNE4NFDI](https://www.daphne4nfdi.de/english/index.php), the "Data for Photon and Neutron Science" consortium within [NFDI](https://www.nfdi.de/?lang=en).
