@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: index
+permalink: /xafsdb4daphne
 ---
 
 <link rel="stylesheet" type="text/css" href="/css/custom.css">
