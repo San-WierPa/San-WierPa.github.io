@@ -8,8 +8,6 @@ permalink: index
 
 # XAFSDB 4 DAPHNE
 
-<div style="position: fixed; right: 0; top: 0; width: 200px;">
-
 [Meet the team](team_contact)<br>
 [Checkout the website](http://xafsdb.ddns.net/)
 
@@ -17,8 +15,6 @@ permalink: index
 [Overview](#overview)<br>
 [Flowchart](#flowchart)<br>
 [Disclaimer](#disclaimer)<br>
-
-</div>
 
 ## Authors
 [Sebastian Paripsa](mailto:paripsa@uni-wuppertal.de) (Bergische Universitaet Wuppertal),<br>
