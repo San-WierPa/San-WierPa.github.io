@@ -1,11 +1,8 @@
-<link rel="stylesheet" type="text/css" href="/css/custom.css">
+## THIS PAGE IS DEPRECATED.
+## THE PUBLIC WEBSITE OF *REFXAS* CAN NOW BE FOUND HERE:
+## [RefXAS - Reference database for XAS](https://san-wierpa.github.io/xafsdb_webserver/)
 
----
-layout: page
-title: Home
----
-
-# XAFSDB 4 DAPHNE
+# RefXAS
 
 
 [Checkout the website](http://xafsdb.ddns.net/)
